@@ -4,10 +4,18 @@
 The goal of my analysis is to evaluate car preferences and acceptance levels based on attributes like buying price, maintenance cost, number of doors, seating capacity, luggage space, and safety. I'll create dashboards to identify the most and least accepted car categories, investigate why some cars are rated as "non-acceptable," and highlight the safest 2-door cars ordered by price. Additionally, I'll explore other insights to provide a deeper understanding of user preferences and car evaluations.
 
 
+### 1. Specify questions and goals of the analysis
+
+- What is the most accepted category of cars among those with 2, 3, 4, and 5 doors? What is the least accepted category (i.e., cars rated as "non-acceptable")? Additionally, how many 2-person cars were evaluated as "Acceptable"?
+
+- Investigate the main reasons why some cars are evaluated as "non-acceptable." Consider factors such as buying price, safety, luggage space, seating capacity, and maintenance costs.
+  
+- For 2-door cars, identify the safest options (with a safety rating of "high") and order them by buying price.
+  
+- Explore and highlight any other interesting findings from this data to enhance the overall analysis and storytelling.
 
 
-
-### 1. Data Cleaning and Preparation
+### 2. Data Cleaning and Preparation
 
 I've imported the dataset to PostgreSQL database and cleaned that before visualization to deliver high-quality data into my BI tool.  
 
@@ -30,7 +38,7 @@ Key steps for data cleaning:
 <br><br>
 
 
-### 2. Visualize the Data by Tableau
+### 3. Visualize the Data by Tableau
 
 <p align="Left">
   <img src="https://github.com/user-attachments/assets/fc6c4e78-9879-445a-8c53-15995b2f8b0d" width="700"/>
