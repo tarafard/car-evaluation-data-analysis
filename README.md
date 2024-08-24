@@ -2,7 +2,7 @@
 
 
 
-### 4. Visualize the Data by Tableau
+### 1. Visualize the Data by Tableau
 
 <p align="Left">
   <img src="https://github.com/user-attachments/assets/fc6c4e78-9879-445a-8c53-15995b2f8b0d" width="700"/>
