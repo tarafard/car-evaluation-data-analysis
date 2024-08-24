@@ -2,18 +2,18 @@
 
 ### 1. Data Cleaning and Prepration
 
-Key steps for data cleaning before visualization:
+I've imported the dataset to PostgreSQL database and cleaned that before visualization to deliver high-quality data to my BI tool.  
 
+
+Key steps for data cleaning:
 1. Remove Duplicates: Ensure there are no duplicate records.
-2. Handle Missing Values: Impute or remove missing data.
+2. Handle Missing Values: Impute or remove missing data
 3. Correct Data Types: Ensure all columns have appropriate data types.
 4. Remove Outliers: Identify and handle outliers to avoid skewing results.
 5. Standardize and Normalize Data: Especially for numerical data.
 6. Fix Inconsistencies: Address inconsistent entries (e.g., spelling variations).
-7. Filter Irrelevant Data: Remove data that won't be used in the visualization.
-8. Resolve Data Entry Errors: Correct obvious typos and errors.
-9. Create New Variables: If necessary, derive new columns from existing data.
-10. Validate Data Integrity: Ensure data relationships (e.g., foreign keys) are intact.
+7. Resolve Data Entry Errors: Correct obvious typos and errors.
+
 
 <br><br>
 
