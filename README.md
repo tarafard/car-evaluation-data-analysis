@@ -1,5 +1,12 @@
 # Car Eveluation Data Analysis Project
 
+
+The goal of my analysis is to evaluate car preferences and acceptance levels based on attributes like buying price, maintenance cost, number of doors, seating capacity, luggage space, and safety. I'll create dashboards to identify the most and least accepted car categories, investigate why some cars are rated as "non-acceptable," and highlight the safest 2-door cars ordered by price. Additionally, I'll explore other insights to provide a deeper understanding of user preferences and car evaluations.
+
+
+
+
+
 ### 1. Data Cleaning and Prepration
 
 I've imported the dataset to PostgreSQL database and cleaned that before visualization to deliver high-quality data to my BI tool.  
