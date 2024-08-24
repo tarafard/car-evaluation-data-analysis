@@ -13,7 +13,7 @@ The goal of my analysis is to evaluate car preferences and acceptance levels bas
 - For 2-door cars, identify the safest options (with a safety rating of "high") and order them by buying price.
   
 - Explore and highlight any other interesting findings from this data to enhance the overall analysis and storytelling.
-
+<br><br>
 
 ### 2. Data Cleaning and Preparation
 
