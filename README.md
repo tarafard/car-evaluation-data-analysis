@@ -1,8 +1,24 @@
 # Car Eveluation Data Analysis
 
+### 1. Data Cleaning and Prepration
+
+Key steps for data cleaning before visualization:
+
+1. Remove Duplicates: Ensure there are no duplicate records.
+2. Handle Missing Values: Impute or remove missing data.
+3. Correct Data Types: Ensure all columns have appropriate data types.
+4. Remove Outliers: Identify and handle outliers to avoid skewing results.
+5. Standardize and Normalize Data: Especially for numerical data.
+6. Fix Inconsistencies: Address inconsistent entries (e.g., spelling variations).
+7. Filter Irrelevant Data: Remove data that won't be used in the visualization.
+8. Resolve Data Entry Errors: Correct obvious typos and errors.
+9. Create New Variables: If necessary, derive new columns from existing data.
+10. Validate Data Integrity: Ensure data relationships (e.g., foreign keys) are intact.
+
+<br><br>
 
 
-### 1. Visualize the Data by Tableau
+### 2. Visualize the Data by Tableau
 
 <p align="Left">
   <img src="https://github.com/user-attachments/assets/fc6c4e78-9879-445a-8c53-15995b2f8b0d" width="700"/>
