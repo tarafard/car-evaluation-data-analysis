@@ -1,4 +1,4 @@
-# Car Eveluation Data Analysis Project
+# Car Evaluation Data Analysis Project
 
 
 The goal of my analysis is to evaluate car preferences and acceptance levels based on attributes like buying price, maintenance cost, number of doors, seating capacity, luggage space, and safety. I'll create dashboards to identify the most and least accepted car categories, investigate why some cars are rated as "non-acceptable," and highlight the safest 2-door cars ordered by price. Additionally, I'll explore other insights to provide a deeper understanding of user preferences and car evaluations.
@@ -7,9 +7,9 @@ The goal of my analysis is to evaluate car preferences and acceptance levels bas
 
 
 
-### 1. Data Cleaning and Prepration
+### 1. Data Cleaning and Preparation
 
-I've imported the dataset to PostgreSQL database and cleaned that before visualization to deliver high-quality data to my BI tool.  
+I've imported the dataset to PostgreSQL database and cleaned that before visualization to deliver high-quality data into my BI tool.  
 
 <p align="Left">
   <img width="500" alt="Directory Screenshot" src="https://github.com/user-attachments/assets/a3417c20-3547-4b98-9daa-d507849c6523">
@@ -48,7 +48,7 @@ Key steps for data cleaning:
 </p>
 
 
-- #### Download and Open the Tableau Workbook file on your own Tableau: [../Car-Evaluation-Story.twbx](https://github.com/tarafard/car-eveluation-data-analysis/blob/main/Car-Evaluation-Story.twbx)
+- #### Download and Open the Tableau Workbook file on your own Tableau: [../Car-Evaluation-Story.twbx](https://github.com/tarafard/car-Evaluation-data-analysis/blob/main/Car-Evaluation-Story.twbx)
 
 
 <p align="Left">
