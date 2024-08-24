@@ -22,9 +22,7 @@ Key steps for data cleaning before visualization:
 
 <p align="Left">
   <img src="https://github.com/user-attachments/assets/fc6c4e78-9879-445a-8c53-15995b2f8b0d" width="700"/>
-  <br>
   <img src="https://github.com/user-attachments/assets/c184c63e-09bf-4c0d-9c23-3f9a473b87b7" width="700"/>
-  <br>
   <img src="https://github.com/user-attachments/assets/1c1d2528-7882-42c5-aa41-87913b4d2c26" width="700"/>
 </p>
 
