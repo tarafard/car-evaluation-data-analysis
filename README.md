@@ -4,6 +4,11 @@
 
 I've imported the dataset to PostgreSQL database and cleaned that before visualization to deliver high-quality data to my BI tool.  
 
+<p align="Left">
+  <img width="500" alt="Directory Screenshot" src="https://github.com/user-attachments/assets/a3417c20-3547-4b98-9daa-d507849c6523">
+</p>
+
+<br>
 
 Key steps for data cleaning:
 1. Remove Duplicates: Ensure there are no duplicate records.
