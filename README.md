@@ -1,4 +1,4 @@
-# Car Eveluation Data Analysis
+# Car Eveluation Data Analysis Project
 
 ### 1. Data Cleaning and Prepration
 
