@@ -46,11 +46,11 @@ Key steps for data cleaning:
   <img src="https://github.com/user-attachments/assets/1c1d2528-7882-42c5-aa41-87913b4d2c26" width="700"/>
 </p>
 
-- #### Open Interactive Dashboards on **[Tableau Public](https://public.tableau.com/views/CarEvaluationDashboards/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+- #### Open Interactive Dashboards on **[Tableau Public](https://public.tableau.com/app/profile/tara.fardmanesh/viz/CarEvaluationDashboards/Story1)**
 
 
 <p align="left">
-  <a href="https://public.tableau.com/views/CarEvaluationDashboards/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">
+  <a href="https://public.tableau.com/app/profile/tara.fardmanesh/viz/CarEvaluationDashboards/Story1" target="_blank">
     <img src="https://github.com/user-attachments/assets/38b9d4f5-15c3-415f-92ca-84800c2ba88e" width="300" />
   </a>
 </p>
